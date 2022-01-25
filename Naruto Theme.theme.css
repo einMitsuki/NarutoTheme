@@ -1,0 +1,25 @@
+/**
+* @name Naruto Theme
+* @version Auto Update
+* @description From Naruto-Fans for Naruto-Fans
+* @author einMitsuki
+* @invite FzFkQn2dFB
+* @Source https://github.com/codedotspectra/themes
+* @website https://betterdiscord.app/theme/Neutron
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative');
+:root {
+--themeColor1: #8800FFFF;
+--themeColor2: #FF8800FF;
+--customFont: 'Signika Negative';
+--homeImage: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sharingan_triple.svg/300px-Sharingan_triple.svg.png');
+--homeImageSize: cover;
+--backgroundColor: #0D0D0DFF;
+--backgroundImage: url('https://c4.wallpaperflare.com/wallpaper/588/212/885/anime-naruto-naruto-uzumaki-sakura-haruno-wallpaper-preview.jpg');
+--backgroundPosition: top;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 3px;
+--backgroundOpacity: 0.65;
+}
